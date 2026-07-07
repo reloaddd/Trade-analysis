@@ -1,6 +1,6 @@
-Classification,n_trades,avg_pnl,median_pnl,win_rate,liquidation_rate,avg_leverage,total_pnl
-Extreme Fear,97,-141.336,-56.08,0.299,0.165,3.979,-13709.58
-Fear,1062,-83.994,-24.6,0.364,0.166,3.995,-89201.84
-Neutral,856,-92.777,-20.37,0.398,0.181,4.12,-79416.85
-Greed,1639,-53.006,-11.05,0.456,0.179,5.109,-86877.48
-Extreme Greed,181,-239.647,3.32,0.525,0.199,5.934,-43376.05
+classification,n_trades,avg_pnl,win_rate,total_pnl
+Extreme Fear,10406,71.027,0.762,739110.248
+Fear,29808,112.626,0.873,3357155.442
+Neutral,18159,71.2,0.824,1292920.676
+Greed,25176,85.404,0.769,2150129.273
+Extreme Greed,20853,130.205,0.892,2715171.311

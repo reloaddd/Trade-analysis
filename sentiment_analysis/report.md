@@ -95,6 +95,11 @@ aggregate-only dashboard would miss.
    per-account leverage-discipline score as an input signal in its own
    right.
 
+## Output
+
+![Description of the image](assets/terminal_output.png)
+
+
 ## Charts
 
 See `charts/`:
@@ -107,7 +112,17 @@ See `charts/`:
 ## Reproducing this analysis
 
 ```bash
+# Windows
+python -m venv venv
+venv\Scripts\activate
+
+# OR
+
+# macOS/Linux
+python3 -m venv venv
+source venv/bin/activate
+
+#then
 pip install -r requirements.txt
-python generate_synthetic_data.py   # only needed if data/ doesn't already have the real files
 python analysis.py
 ```
