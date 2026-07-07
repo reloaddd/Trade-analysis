@@ -1,0 +1,6 @@
+Classification,mean,median,std,max
+Extreme Fear,3.89,4.0,1.65,9
+Fear,4.04,4.0,1.72,12
+Neutral,4.13,4.0,1.73,12
+Greed,5.12,5.0,2.03,15
+Extreme Greed,6.08,6.0,2.2,15
